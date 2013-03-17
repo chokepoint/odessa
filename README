@@ -1,0 +1,11 @@
+Odessa is a channel managing bot.
+
+Commands:
+!aop <password>
+!op <nick of person to make operator>
+!help   - Display list of commands and help information
+!invite <user to invite>
+!passwd <new password>
+!reload - reload admin list
+
+
